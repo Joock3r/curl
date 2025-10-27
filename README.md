@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# CURL Connection Diagnostic Tool
 
 
@@ -82,3 +83,6 @@ python curl\_diagnostic.py https://example.com --proxy http://proxy.company.com:
 
 python curl\_diagnostic.py http://internal-server.local:8080
 
+=======
+# curl
+>>>>>>> b9634b0b72b87b8b5a761f46728a1c7d3bf4972e
